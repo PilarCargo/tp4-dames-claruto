@@ -68,4 +68,6 @@ public final class Joueur {
 
         this.nom = nomLu;
     }
+    
+    // tetste
 }
